@@ -2,6 +2,9 @@
 
 Landing Page using HTML and CSS
 
+# Education_Website
+Learn how to design a stunning and responsive education website landing page using HTML and CSS!
+
 #Overview
 This project aims to create a visually appealing landing page using HTML and CSS. The landing page will serve as the initial interface for visitors, providing information about the product, service, or content offered by the website.
 
